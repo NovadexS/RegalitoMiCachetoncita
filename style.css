@@ -417,7 +417,7 @@ html,body {
 @keyframes moving-grass--9 { from, to { transform: scale(0.3) rotate(20deg) rotateY(90deg); } 50% { transform: scale(0.3) rotate(23deg) rotateY(95deg); } }
 @keyframes moving-grass--10 { from, to { transform: scale(0.35) rotate(-45deg) rotateY(-120deg); } 50% { transform: scale(0.35) rotate(-42deg) rotateY(-115deg); } }
 
-@media (max-width: 768px) { .flowers { transform: scale(1.2); bottom: 35vmin} .love-title { font-size: 8vw; top: 15px;} .music-player { top: 150px; min-width: 240px; } }
+@media (max-width: 768px) { .flowers { transform: scale(1.2); bottom: 5vmin} .love-title { font-size: 8vw; top: 15px;} .music-player { top: 150px; min-width: 240px; } }
 @media (max-width: 480px) { .flowers { transform: scale(1.0); bottom: 10vmin} .love-title { font-size: 5vw; top: 20px; } .music-player { top: 130px; padding: 8px 12px; min-width: 240px; gap: 8px;} }
 
 
