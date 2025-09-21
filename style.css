@@ -52,6 +52,7 @@ html,body {
     top: 10px;
     left: 50%;
     transform: translateX(-50%);
+    transform: translateY(-50%);
     color: #ffff00;
     font-family: "Indie Flower";
     font-size: clamp(0.8rem, 2.5vw, 1.5rem);
