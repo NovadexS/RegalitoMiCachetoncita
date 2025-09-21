@@ -424,9 +424,9 @@ html,body {
     }
 
     .love-title {
-        font-size: 12vw;             /* ajusta según se vea mejor */
+        font-size: 2vw;             /* ajusta según se vea mejor */
         top: auto;                   /* eliminamos top fijo */
-        bottom: 50vmin;              /* posición relativa a la parte inferior */
+        bottom: 10vmin;              /* posición relativa a la parte inferior */
         text-align: center;
         width: 100%;                 /* que ocupe todo el ancho */
         margin: 0 auto;              /* centrado horizontal */
